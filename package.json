@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Generator",
+  "main": "Index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-valean/Team-Profile-Generator.git"
+  },
+  "author": "Daniel Valean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-valean/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/daniel-valean/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^8.2.4",
+    "jest": "^29.1.2"
+  }
+}
